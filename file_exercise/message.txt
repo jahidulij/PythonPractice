@@ -1,0 +1,5 @@
+Hello File.
+This line will be appended in message.txt file
+It will close automatically.
+This line will be appended
+This line will be appended too
