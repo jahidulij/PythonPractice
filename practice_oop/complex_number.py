@@ -17,7 +17,7 @@ num1.get_data()
 # Create another ComplexNumber object
 num2 = ComplexNumber(5)
 # Create a new attribute
-num2.attr = 10
+num2.attr = 11
 # Call get_data method
 num2.get_data()
 
